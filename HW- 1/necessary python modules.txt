@@ -1,0 +1,19 @@
+
+dependencies:
+  - python=3.x
+  
+
+  - jupyter
+  - numpy
+  - pandas
+  - scikit-learn
+  - tensorflow
+  - keras
+  - matplotlib
+  - h5py
+  - cartopy
+  - fiona
+  - geopandas
+  - hpgl
+  - gdal
+  - rasterio
